@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "papaparse": "latest"
+  },
+  "devDependencies": {}
+}
